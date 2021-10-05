@@ -1,0 +1,6 @@
+body{
+    background-color: wheat;
+}
+li::marker{
+    display: none;
+}
